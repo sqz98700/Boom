@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println(new Date());  
         
-        
+        你好啊
 
     }
 }
